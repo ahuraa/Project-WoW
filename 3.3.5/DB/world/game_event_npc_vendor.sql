@@ -1,0 +1,14 @@
+INSERT INTO `game_event_npc_vendor` VALUES (17, 1803, 0, 23160, 0, 0, 0);
+INSERT INTO `game_event_npc_vendor` VALUES (17, 1803, 0, 23161, 0, 0, 0);
+INSERT INTO `game_event_npc_vendor` VALUES (17, 38112, 0, 23160, 0, 0, 0);
+INSERT INTO `game_event_npc_vendor` VALUES (17, 38112, 0, 23161, 0, 0, 0);
+INSERT INTO `game_event_npc_vendor` VALUES (17, 26771, 0, 23160, 0, 0, 0);
+INSERT INTO `game_event_npc_vendor` VALUES (17, 26771, 0, 23161, 0, 0, 0);
+INSERT INTO `game_event_npc_vendor` VALUES (17, 7, 0, 23160, 0, 0, 0);
+INSERT INTO `game_event_npc_vendor` VALUES (17, 7, 0, 23161, 0, 0, 0);
+INSERT INTO `game_event_npc_vendor` VALUES (17, 46320, 0, 23160, 0, 0, 0);
+INSERT INTO `game_event_npc_vendor` VALUES (17, 46320, 0, 23161, 0, 0, 0);
+INSERT INTO `game_event_npc_vendor` VALUES (17, 208240, 0, 23160, 0, 0, 0);
+INSERT INTO `game_event_npc_vendor` VALUES (17, 208240, 0, 23161, 0, 0, 0);
+INSERT INTO `game_event_npc_vendor` VALUES (10, 99369, 0, 46693, 0, 0, 0);
+INSERT INTO `game_event_npc_vendor` VALUES (10, 97984, 0, 46693, 0, 0, 0);
