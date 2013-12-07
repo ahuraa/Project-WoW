@@ -2515,7 +2515,7 @@ INSERT INTO `pool_template` VALUES (5691, 1, 'Dalaran Books: Violet Gate');
 INSERT INTO `pool_template` VALUES (5692, 1, 'Dalaran Books: Violet Citadel Lower');
 INSERT INTO `pool_template` VALUES (5693, 1, 'Dalaran Books: Threads of Fate');
 INSERT INTO `pool_template` VALUES (5694, 1, 'Dalaran Books: Ledgerdemain Lounge Upstairs');
-INSERT INTO `pool_template` VALUES (5695, 1, 'Dalaran Books: VisitorÆs Center');
+INSERT INTO `pool_template` VALUES (5695, 1, 'Dalaran Books: VisitorÃ†s Center');
 INSERT INTO `pool_template` VALUES (5696, 1, 'Dalaran Books: Violet Citadel Upstairs');
 INSERT INTO `pool_template` VALUES (5697, 1, 'Dalaran Books: Violet Hold');
 INSERT INTO `pool_template` VALUES (5698, 1, 'Dalaran Books: Ledgerdemain Lounge Lower');

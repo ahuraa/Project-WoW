@@ -271,4 +271,3 @@ INSERT INTO `npc_spellclick_spells` VALUES (35415, 66245, 1, 0);
 INSERT INTO `npc_spellclick_spells` VALUES (35413, 66245, 1, 0);
 INSERT INTO `npc_spellclick_spells` VALUES (35419, 68503, 1, 0);
 INSERT INTO `npc_spellclick_spells` VALUES (35429, 68458, 1, 0);
-INSERT INTO `npc_spellclick_spells` VALUES (27354, 43671, 1, 0);

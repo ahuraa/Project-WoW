@@ -6,6 +6,8 @@ INSERT INTO `spell_scripts` VALUES (54620, 0, 0, 6, 571, 0, 0, 5807.75, 588.063,
 INSERT INTO `spell_scripts` VALUES (37834, 0, 0, 14, 37833, 0, 0, 0, 0, 0, 0);
 INSERT INTO `spell_scripts` VALUES (34448, 0, 0, 15, 26566, 0, 0, 0, 0, 0, 0);
 INSERT INTO `spell_scripts` VALUES (34452, 0, 0, 15, 26572, 0, 0, 0, 0, 0, 0);
+INSERT INTO `spell_scripts` VALUES (52160, 0, 0, 0, 0, 1, 2000000108, 0, 0, 0, 0);
+INSERT INTO `spell_scripts` VALUES (52163, 0, 0, 0, 0, 1, 2000000107, 0, 0, 0, 0);
 INSERT INTO `spell_scripts` VALUES (44997, 0, 0, 15, 45009, 1, 1, 0, 0, 0, 0);
 INSERT INTO `spell_scripts` VALUES (45030, 1, 0, 15, 45088, 1, 1, 0, 0, 0, 0);
 INSERT INTO `spell_scripts` VALUES (49625, 0, 0, 15, 43106, 1, 1, 0, 0, 0, 0);

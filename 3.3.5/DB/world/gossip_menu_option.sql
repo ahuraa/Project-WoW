@@ -1989,7 +1989,7 @@ INSERT INTO `gossip_menu_option` VALUES (10945, 0, 0, 'There\'s a chemical insid
 INSERT INTO `gossip_menu_option` VALUES (10946, 0, 0, 'Where were they delivered?', 1, 1, 10947, 0, 0, 0, '');
 INSERT INTO `gossip_menu_option` VALUES (9550, 0, 0, 'Why would I want to ride a shredder?', 1, 1, 9555, 0, 0, 0, '');
 INSERT INTO `gossip_menu_option` VALUES (9555, 0, 0, 'Where can I get a Refurbished Shredder Key?', 1, 1, 9557, 0, 0, 0, '');
-INSERT INTO `gossip_menu_option` VALUES (10340, 0, 0, 'I am ready to fight!', 1, 1, 0, 0, 0, 0, NULL);
+INSERT INTO `gossip_menu_option` VALUES (10340, 1, 0, 'How do the Argent Crusade riders fight?', 1, 1, 10440, 0, 0, 0, '');
 INSERT INTO `gossip_menu_option` VALUES (7260, 0, 3, 'I would like to train further in the ways of the Light.', 5, 16, 0, 0, 0, 0, '');
 INSERT INTO `gossip_menu_option` VALUES (7260, 1, 0, 'I wish to unlearn my talents.', 16, 16, 4461, 0, 0, 0, '');
 INSERT INTO `gossip_menu_option` VALUES (6647, 2, 2, 'Purchase a Dual Talent Specialization', 18, 16, 0, 0, 0, 10000000, 'Are you sure you wish to purchase a Dual Talent Specialization?');
@@ -3505,6 +3505,3 @@ INSERT INTO `gossip_menu_option` VALUES (9575, 1, 0, 'I want to exchange my Ambe
 INSERT INTO `gossip_menu_option` VALUES (9575, 2, 0, 'I want to exchange my Emerald Essence for Ruby Essence.', 1, 1, 0, 0, 0, 0, '');
 INSERT INTO `gossip_menu_option` VALUES (9575, 3, 0, 'What abilities do ruby drakes have?', 1, 1, 9699, 0, 0, 0, '');
 INSERT INTO `gossip_menu_option` VALUES (9575, 4, 0, 'What is the ultimate ability of the Ruby Drake?', 1, 1, 9700, 0, 0, 0, '');
-INSERT INTO `gossip_menu_option` VALUES (10340, 1, 0, 'How do the Argent Crusade riders fight?', 1, 1, 10440, 0, 0, 0, NULL);
-INSERT INTO `gossip_menu_option` VALUES (10383, 0, 0, 'Ask Cavin to summon the Black Knight.', 1, 1, 0, 0, 0, 0, NULL);
-INSERT INTO `gossip_menu_option` VALUES (10343, 0, 0, 'I am ready to fight!', 1, 1, 0, 0, 0, 0, NULL);

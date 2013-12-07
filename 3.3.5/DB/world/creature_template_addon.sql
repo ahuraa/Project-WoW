@@ -7695,4 +7695,3 @@ INSERT INTO `creature_template_addon` VALUES (30017, 0, 0, 0, 1, 0, '');
 INSERT INTO `creature_template_addon` VALUES (31807, 0, 0, 0, 1, 69, '');
 INSERT INTO `creature_template_addon` VALUES (31805, 0, 0, 0, 257, 0, '');
 INSERT INTO `creature_template_addon` VALUES (31804, 0, 0, 0, 257, 0, '');
-INSERT INTO `creature_template_addon` VALUES (27354, 0, 0, 0, 1, 0, '48456 48458');

@@ -1,5 +1,3 @@
-INSERT INTO `disables` VALUES (3, 10, 0, '', '', '');
-INSERT INTO `disables` VALUES (3, 11, 0, '', '', '');
 INSERT INTO `disables` VALUES (1, 960, 0, '', '', 'Deprecated quest');
 INSERT INTO `disables` VALUES (1, 10871, 0, '', '', 'Deprecated quest - Ally of the Netherwing (first version - when it was for alliance only, reworked after 3.3.0)');
 INSERT INTO `disables` VALUES (4, 4244, 0, '', '', '');

@@ -229,7 +229,6 @@ INSERT INTO `spell_linked_spell` VALUES (57889, 57891, 0, 'On spellcast Using th
 INSERT INTO `spell_linked_spell` VALUES (26286, 44430, 0, 'Small Red Rocket - questcredit');
 INSERT INTO `spell_linked_spell` VALUES (50317, 50487, 0, 'Disco Ball');
 INSERT INTO `spell_linked_spell` VALUES (50317, 50314, 0, 'Disco Ball');
-INSERT INTO `spell_linked_spell` VALUES (50709, -50665, 1, 'Strip Aura Jonathan 01 remove aura Bleeding Out');
 INSERT INTO `spell_linked_spell` VALUES (37908, 24831, 0, 'Aura Visual Teleport - teleport');
 INSERT INTO `spell_linked_spell` VALUES (26373, 26448, 0, 'Lunar Festival Invitation - Teleport Moonglade');
 INSERT INTO `spell_linked_spell` VALUES (26292, 44430, 0, 'Small Green Rocket - questcredit');
@@ -355,8 +354,3 @@ INSERT INTO `spell_linked_spell` VALUES (49889, 45206, 1, 'Copy off weapon');
 INSERT INTO `spell_linked_spell` VALUES (52839, 52775, 1, 'Summon Malmortis');
 INSERT INTO `spell_linked_spell` VALUES (52676, 52677, 1, 'Teleport');
 INSERT INTO `spell_linked_spell` VALUES (52089, 52091, 1, 'Teleport');
-INSERT INTO `spell_linked_spell` VALUES (50710, -50666, 1, 'Strip Aura Jonathan remove aura Jonathan Dying from player');
-INSERT INTO `spell_linked_spell` VALUES (50711, -50695, 1, 'Strip Aura Josephine 01 remove aura Bleeding Out');
-INSERT INTO `spell_linked_spell` VALUES (50712, -50693, 1, 'Strip Aura Josephine remove aura Josephine Dying from player');
-INSERT INTO `spell_linked_spell` VALUES (50722, -50679, 1, 'Strip Aura Lamoof remove aura Lamoof Dying from player');
-INSERT INTO `spell_linked_spell` VALUES (50723, -50681, 1, 'Strip Aura Lamoof 01 remove aura Bleeding Out');

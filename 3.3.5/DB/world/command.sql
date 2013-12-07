@@ -386,6 +386,7 @@ INSERT INTO `command` VALUES ('character changerace', 276, 'Syntax: .character c
 INSERT INTO `command` VALUES ('ban playeraccount', 243, 'Syntax: .ban playeraccount $Name $bantime $reason\nBan account and kick player.\n$bantime: negative value leads to permban, otherwise use a timestring like \"4d20h3s\".');
 INSERT INTO `command` VALUES ('achievement add', 231, 'Syntax: .achievement add $achievement\nAdd an achievement to the targeted player.\n$achievement: can be either achievement id or achievement link');
 INSERT INTO `command` VALUES ('achievement', 230, 'Syntax: .achievement $subcommand\nType .achievement to see the list of possible subcommands or .help achievement $subcommand to see info on subcommands');
+INSERT INTO `command` VALUES ('reload creature_text', 631, 'Syntax: .reload creature_text\r\nReload creature_text table.');
 INSERT INTO `command` VALUES ('debug areatriggers', 302, 'Syntax: .debug areatriggers\nToggle debug mode for areatriggers. In debug mode GM will be notified if reaching an areatrigger');
 INSERT INTO `command` VALUES ('learn all recipes', 428, 'Syntax: .learn all recipes [$profession]\r\rLearns all recipes of specified profession and sets skill level to max.\rExample: .learn all recipes enchanting');
 INSERT INTO `command` VALUES ('npc set spawndist', 590, 'Syntax: .npc set spawndist #dist\r\n\r\nAdjust spawndistance of selected creature to dist.');
@@ -402,6 +403,7 @@ INSERT INTO `command` VALUES ('reload achievement_criteria_data', 609, 'Syntax: 
 INSERT INTO `command` VALUES ('reload achievement_reward', 610, 'Syntax: .reload achievement_reward\nReload achievement_reward table.');
 INSERT INTO `command` VALUES ('reload all achievement', 612, 'Syntax: .reload all achievement\r\n\r\nReload achievement_reward, achievement_criteria_data tables.');
 INSERT INTO `command` VALUES ('reload all area', 613, 'Syntax: .reload all area\r\n\r\nReload areatrigger_teleport, areatrigger_tavern, game_graveyard_zone tables.');
+INSERT INTO `command` VALUES ('reload all eventai', 614, 'Syntax: .reload all eventai\r\n\r\nReload creature_ai_scripts, creature_ai_summons, creature_ai_texts tables.');
 INSERT INTO `command` VALUES ('reload auctions', 626, 'Syntax: .reload auctions\nReload dynamic data tables from the database.');
 INSERT INTO `command` VALUES ('reload mail_level_reward', 668, 'Syntax: .reload mail_level_reward\nReload mail_level_reward table.');
 INSERT INTO `command` VALUES ('reload smart_scripts', 689, 'Syntax: .reload smart_scripts\nReload smart_scripts table.');

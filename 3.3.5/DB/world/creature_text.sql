@@ -5429,8 +5429,8 @@ INSERT INTO `creature_text` VALUES (5901, 0, 0, 'Spirits of Water, I give you pr
 INSERT INTO `creature_text` VALUES (5901, 1, 0, 'Thank you great spirit. Thank you!', 12, 0, 100, 1, 0, 0, 'Islen Waterseer');
 INSERT INTO `creature_text` VALUES (9316, 0, 0, 'Ok, let\'s get started!', 12, 0, 100, 1, 0, 0, 'Wenikee Boltbucket');
 INSERT INTO `creature_text` VALUES (9316, 1, 0, '... oops.', 12, 0, 100, 1, 0, 0, 'Wenikee Boltbucket');
-INSERT INTO `creature_text` VALUES (2080, 0, 0, 'Now let us place this rare earth in my planter...', 12, 0, 100, 0, 0, 0, 'Denalan');
-INSERT INTO `creature_text` VALUES (2080, 1, 0, 'Thank you again, $N. This rare earth will be very helpful in my experiments.', 12, 0, 100, 2, 0, 0, 'Denalan');
+INSERT INTO `creature_text` VALUES (2080, 0, 0, 'Now let us place this rare earth in my planter...', 12, 0, 100, 1, 0, 0, 'Denalan');
+INSERT INTO `creature_text` VALUES (2080, 1, 0, 'Thank you again, $N. This rare earth will be very helpful in my experiments.', 12, 0, 100, 1, 0, 0, 'Denalan');
 INSERT INTO `creature_text` VALUES (2080, 2, 0, 'Denalan hurries to his planter.', 41, 0, 100, 1, 0, 0, 'Denalan');
 INSERT INTO `creature_text` VALUES (2080, 3, 0, 'I hope this frond takes root...', 12, 0, 100, 1, 0, 0, 'Denalan');
 INSERT INTO `creature_text` VALUES (2080, 4, 0, 'Denalan removes the seeds from the Glowing Fruit...', 41, 0, 100, 1, 0, 0, 'Denalan');
@@ -8073,6 +8073,3 @@ INSERT INTO `creature_text` VALUES (27209, 9, 0, 'You won\'t get... anything els
 INSERT INTO `creature_text` VALUES (27209, 10, 0, 'They all... begged... for their... lives!', 15, 0, 100, 0, 0, 0, 'Torturer LeCraft');
 INSERT INTO `creature_text` VALUES (27209, 11, 0, 'I TOLD YOU... I don\'t know... anything... else!', 15, 0, 100, 0, 0, 0, 'Torturer LeCraft');
 INSERT INTO `creature_text` VALUES (27209, 12, 0, 'Just... end it.', 15, 0, 100, 0, 0, 0, 'Torturer LeCraft');
-INSERT INTO `creature_text` VALUES (28136, 1, 0, '<sigh>... This is the end of me.', 12, 0, 100, 1, 0, 0, '');
-INSERT INTO `creature_text` VALUES (28142, 1, 0, '<sigh>... This is the end of me.', 12, 0, 100, 1, 0, 0, '');
-INSERT INTO `creature_text` VALUES (28148, 1, 0, 'Ohhh, I... cannot go on....', 12, 0, 100, 1, 0, 0, '');

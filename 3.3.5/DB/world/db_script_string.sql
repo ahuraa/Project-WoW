@@ -1,3 +1,5 @@
+INSERT INTO `db_script_string` VALUES (2000000107, 'These aren\'t Shango\'s tracks.', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO `db_script_string` VALUES (2000000108, 'These tracks must belong to Shango.', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
 INSERT INTO `db_script_string` VALUES (2000005018, 'Ah, this must be him now... no?', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
 INSERT INTO `db_script_string` VALUES (2000005019, 'You might wanna stand back. Fish guttin\' is a dirty job.', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
 INSERT INTO `db_script_string` VALUES (2000005020, 'It\'s good to see you defending Theramore with pride, friend.', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);

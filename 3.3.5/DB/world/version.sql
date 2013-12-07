@@ -1,1 +1,1 @@
-INSERT INTO `version` VALUES ('TrinityCore rev. 2013-07-17 00:00:00 -0000 (0e4816771a6e8ba6d) (Win64, Debug)', '0e4816771a6e8ba6dcf4d81386d', 'TDB 335.52', 52);
+INSERT INTO `version` VALUES ('TrinityCore rev. 6a7067f766a0 2013-11-28 20:19:57 +0100 (master branch) (Win32, Release)', '6a7067f766a0', 'TDB 335.52', 52);
